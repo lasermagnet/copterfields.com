@@ -1,0 +1,42 @@
+[
+	{
+		"blueprintAnimationName": "TowerBasic",
+		"label": "Basic tower",
+		"buildSteps": 6,
+		"ingredients":
+		{
+			"wood": 8,
+			"ore": 0
+		}
+	},
+	{
+		"blueprintAnimationName": "TowerHigh",
+		"label": "High tower",
+		"buildSteps": 10,
+		"ingredients":
+		{
+			"wood": 16,
+			"ore": 2
+		}
+	},
+	{
+		"blueprintAnimationName": "TurretGun",
+		"label": "Gun turret",
+		"buildSteps": 8,
+		"ingredients":
+		{
+			"wood": 0,
+			"ore": 10
+		}
+	},
+	{
+		"blueprintAnimationName": "TurretLaser",
+		"label": "Laser turret",
+		"buildSteps": 14,
+		"ingredients":
+		{
+			"wood": 2,
+			"ore": 18
+		}
+	}
+]

@@ -1,0 +1,38 @@
+{
+	"light1":
+	{
+		"length": 40,
+		"spawnRate": {"min": 3, "max": 4.5},
+		"enemies": ["xEnemyOne", "xEnemyTwo"]
+	},
+	"light2":
+	{
+		"length": 60,
+		"spawnRate": {"min": 2, "max": 3},
+		"enemies": ["xEnemyOne", "xEnemyTwo"]
+	},
+	"heavy1":
+	{
+		"length": 60,
+		"spawnRate": {"min": 8, "max": 12},
+		"enemies": ["xEnemyThree"]
+	},
+	"heavy2":
+	{
+		"length": 60,
+		"spawnRate": {"min": 4, "max": 6},
+		"enemies": ["xEnemyThree"]
+	},
+	"heavy3":
+	{
+		"length": 60,
+		"spawnRate": {"min": 3, "max": 5},
+		"enemies": ["xEnemyThree"]
+	},
+	"test1":
+	{
+		"length": 30,
+		"spawnRate": {"min": 0.5, "max": 2},
+		"enemies": ["xEnemyOne", "xEnemyTwo"]
+	}
+}

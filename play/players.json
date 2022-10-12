@@ -1,0 +1,19 @@
+{
+	"1": {
+		"name": "Player One",
+		"color": {"r": 255, "g": 0, "b": 0}
+	},
+	"2": {
+		"name": "Player Two",
+		"color": {"r": 41, "g": 241, "b": 255}
+	},
+	"3": {
+		"name": "Player Three",
+		"color": {"r": 255, "g": 235, "b": 20}
+	},
+	"4": {
+		"name": "Player Four",
+		"color": {"r": 201, "g": 51, "b": 255}
+	}
+	
+}

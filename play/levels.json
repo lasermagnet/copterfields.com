@@ -1,0 +1,22 @@
+{
+	"Level1":
+	{
+		"baseHitPoints": 10,
+		"phases": [15, "light1", 30, "light2", 20, "heavy1", 20, "light2", 5, "light2"]
+	},
+	"Level2":
+	{
+		"baseHitPoints": 20,
+		"phases": [30, "light1", 40, "light1", 40, "light2", 20, "light2", 50, "heavy1", 40, "light1", 30, "heavy2", 60, "light2"]
+	},
+	"Level3":
+	{
+		"baseHitPoints": 15,
+		"phases": [30, "light1", 45, "light2", 30, "heavy1", 30, "light2", 20, "heavy2", 10, "heavy3"]
+	},
+	"LevelTest":
+	{
+		"baseHitPoints": 100,
+		"phases": [1, "test1"]
+	}
+}
